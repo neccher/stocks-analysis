@@ -1,2 +1,2 @@
 # stocks-analysis
-Mod 2 Pre WOrk
+Mod 2 Pre Work
