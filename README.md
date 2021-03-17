@@ -26,3 +26,19 @@ Steve wanted to help his parents diversify their green energy portfolio.  He ask
             
         End If'
         ```
+### Execution Times
+While I cannot deny that the refactored code ran faster, that advantage was by a fairly slim margin.  However, I believe that every second, in this case fraction of a second, counts and the refactoring turned out to be beneficial.
+
+[Run time for 2017] <img width="233" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/79211628/111528534-440f5400-872f-11eb-9f4f-d67999b946cc.PNG">
+[Run time for 2018] <img width="234" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/79211628/111528550-4c678f00-872f-11eb-80a1-cda3592a9391.PNG">
+
+## Summary
+Refactoring code comes with its pros and cons and this assignment helped us experience both the postives and the negatives of the process.  Some advantages are
+- Increases performance
+- Aids in making the code more understandable
+- Helps to find bugs
+
+However, refactoring code is also time consuming and, if done improperly, can end up breaking things.
+
+While I was refactoring the original VBA script, I definitely experienced some negatives.  I ran into many errors and it was fairly time consuming.  However, once I fixed my mistakes, the code did indeed run faster and there are many more comments explaining what exactly the code is doing.
+
