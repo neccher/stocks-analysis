@@ -30,7 +30,8 @@ Steve wanted to help his parents diversify their green energy portfolio.  He ask
 While I cannot deny that the refactored code ran faster, that advantage was by a fairly slim margin.  However, I believe that every second, in this case fraction of a second, counts and the refactoring turned out to be beneficial.
 
 [Run time for 2017] (Resouces/VBA_Challenge_2017.PNG) <img width="233" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/79211628/111528534-440f5400-872f-11eb-9f4f-d67999b946cc.PNG">
-[Run time for 2018] <img width="234" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/79211628/111528550-4c678f00-872f-11eb-80a1-cda3592a9391.PNG">
+
+[Run time for 2018] (Resouces/VBA_Challenge_2018.PNG) <img width="234" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/79211628/111528550-4c678f00-872f-11eb-80a1-cda3592a9391.PNG">
 
 ## Summary
 Refactoring code comes with its pros and cons and this assignment helped us experience both the postives and the negatives of the process.  Some advantages are
